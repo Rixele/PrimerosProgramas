@@ -54,6 +54,12 @@ puts ""
 cantidad = gets.chomp.to_i
 puts ""
 
+def clear()
+    system ('clear')
+end
+
+clear
+
 total =  (subtotal + subtotal * impuestos) * cantidad
 
 puts "==> Total: #{total.round(2)} soles."
