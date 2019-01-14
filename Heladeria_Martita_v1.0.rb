@@ -48,16 +48,11 @@ else
   puts "La opcion introducida no es valida"
 end
 
-
-#Prueba de cantidad
 puts ""
 puts "Cuantos helados deseas?:"
 puts ""
 cantidad = gets.chomp.to_i
 puts ""
-
-#Prueba de cantidad
-
 
 total =  (subtotal + subtotal * impuestos) * cantidad
 
