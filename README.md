@@ -1,6 +1,4 @@
-# Descripción
+# Description
 
-Este proyecto trata de un programa en la terminal de Punto de venta para una heladería. 
-
-El programa pregunta por un usuario, que sabor de helado desea y finalmente realiza un cálculo del precio total más impuestos.  
+Thanks for coming to my first repo! It is **program created on the terminal** that ask you for your name, get your order and as result gives you an output with the total price calculated.
 
